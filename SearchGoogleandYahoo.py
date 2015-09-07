@@ -8,7 +8,7 @@ from urlparse import urlsplit
 import mechanize
 from bs4 import BeautifulSoup
 
-
+#read LICENSE.txt before you use this code
 
 def getGoogleLinks(link,depth):
 
